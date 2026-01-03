@@ -1,3 +1,5 @@
+[← README](../README.md)
+
 **Cognitive Parameter Philosophy (CPP): A Framework for Non-Performative Neurovariance**
 
 ---

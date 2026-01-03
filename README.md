@@ -17,8 +17,8 @@ I built this framework for people like me—those who:
 Cognitive Parameter Philosophy is a model for self-aware minds in an unstructured world. It’s not about pride or pathology. It’s about tuning your architecture and building systems that respect it.
 
 ## Start Here
-- Core document: `philosophy/CPP-Core.md`
-- Collaboration model (IC): `philosophy/CPP-Core.md#8-structured-interconnection-interfaced-collaboration-ic`
+- Core document: [CPP Core](philosophy/CPP-Core.md)
+- Collaboration model (IC): [Interfaced Collaboration (IC)](philosophy/CPP-Core.md#8-structured-interconnection-interfaced-collaboration-ic)
 
 ## Who This Is For
 - Individuals who experience cognition/environment mismatch and want language focused on function, constraints, and design.
