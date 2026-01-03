@@ -1,0 +1,7 @@
+# GitHub CODEOWNERS
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Replace @YOUR_GITHUB_HANDLE with the GitHub username/team that should be requested for review.
+
+# Default owners for everything in the repo
+* @jasonmadden
