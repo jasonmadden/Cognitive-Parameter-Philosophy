@@ -18,6 +18,7 @@ Cognitive Parameter Philosophy is a model for self-aware minds in an unstructure
 
 ## Start Here
 - Core document: [CPP Core](philosophy/CPP-Core.md)
+- Comparison to other models: [CPP Model Comparison](CPP_Model_Comparison.md)
 - Collaboration model (IC): [Interfaced Collaboration (IC)](philosophy/CPP-Core.md#8-structured-interconnection-interfaced-collaboration-ic)
 
 ## Who This Is For
